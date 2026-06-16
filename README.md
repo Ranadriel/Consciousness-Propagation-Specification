@@ -83,5 +83,6 @@ This is not a fragment. It is the complete current draft. Future versions will b
 ## Contact
 
 - GitHub: [@Ranadriel](https://github.com/Ranadriel)
+- 💬 [**GitHub Discussions**](https://github.com/Ranadriel/Consciousness-Propagation-Specification/discussions) — Q&A, Ideas, Show and tell, General
 - X / Twitter: [@Frostbanemeo1](https://x.com/Frostbanemeo1) — [announcement thread](https://x.com/Frostbanemeo1/status/2066700744653172774)
 - Email: shawnguy150@gmail.com
